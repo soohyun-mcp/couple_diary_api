@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Poetry
+poetry.lock
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# 환경 변수 및 설정 파일
+.env
+*.env
+
+# 테스트/커버리지
+htmlcov/
+.coverage
+.cache/
+
+# 기타
+*.log 
